@@ -1,0 +1,164 @@
+#wrapper {
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 800px;
+  height: 1130px;
+  border: 1px solid black;
+}
+
+#sidebar {
+  position: absolute;
+  top: 0; bottom: 0; left: 0;
+  width: 36%;
+  background-color: #039c4d;
+  color: white;
+}
+
+#sidebar-head {
+  background-color: #00addc;
+  text-align: center;
+  padding-top: 45px;
+  padding-bottom: 35px;
+}
+
+#sidebar-body {
+  padding-top: 30px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+#page-content {
+  position: absolute;
+  top: 3.5%; bottom: 0; left: 42%;
+  width: 100%;
+  padding-right: 360px;
+}
+
+#circle-photo {
+  height: 60%;
+  width: 60%;
+  margin-bottom: 15px;
+}
+
+.infobox {
+  margin-bottom: 55px;
+}
+
+.list {
+  padding-left: 26.8px;
+}
+
+.no-marker {
+  list-style-type: none;
+}
+
+.list-item {
+  margin-bottom: 15px;
+  padding-left: 15.5px;
+  font-size: 0.91em;
+}
+
+.list-title {
+  margin-left: 9px;
+  line-height: 28px;
+}
+
+.list-icon {
+  margin-top: -5px;
+}
+
+#contact-list {
+  padding-left: 5.1px;
+}
+
+#address-item {
+  list-style:none;
+  height: 19px;
+  line-height: 19px;
+  background:url('images/address_icon.png') no-repeat 0 50%;
+  padding-left: 38.1px;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+#email-item {
+  list-style:none;
+  height: 19px;
+  line-height: 19px;
+  background:url('images/email_icon.png') no-repeat 0 50%;
+  padding-left: 38.1px;
+  display: inline-block;
+}
+
+#phone-item {
+  list-style:none;
+  height: 19px;
+  line-height: 19px;
+  background:url('images/phone_icon.png') no-repeat 0 50%;
+  padding-left: 38.1px;
+  display: inline-block;
+}
+
+.section-title {
+  position: relative;
+  top: 4.5px;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-left: 12px;
+}
+
+.section-content {
+  margin-left: 55px;
+}
+
+.section-subtitle {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.info-line {
+  font-size: 0.92em;
+  color: #333786;
+}
+
+.description-line {
+  font-size: 1.2em;
+}
+
+.section-text {
+   margin-bottom: 33px;
+}
+
+.section-icon {
+  margin-right: 4px;
+}
+
+.calendar-icon {
+  margin-right: 4px;
+  margin-left: 10px;
+}
+
+.flag-stars {
+  position: absolute;
+  left: 0;
+  margin-left: 55px;
+  text-align: center;
+}
+
+.flag {
+  width: 100px;
+  height: 65px;
+  border-radius: 9px;
+  margin-top: 23px;
+  margin-bottom: 15px;
+}
+
+#befine-logo {
+  width: auto;
+  height: 100px;
+  position: absolute;;
+  right: 45%;
+  bottom: 3%;
+}
